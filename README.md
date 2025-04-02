@@ -5,7 +5,7 @@ Please unzip
 geogpt pre-trained weights.zip
 ```
 into the geogpt folder.
-and unzip 
+Please  unzip 
 ```
 geovit pre-trained weights.zip
 ```
@@ -14,10 +14,7 @@ For fine-tuning GeoICC on the image-caption pair dataset, please unzip
 ```
 imagecaptiondata.zip
 ```
-to 
-```
-geoicc/bigdata/geoimage_data
-```
+into the geoicc folder.
 To set up the environment and install the required libraries, please run the following command:
  
 ```bash
