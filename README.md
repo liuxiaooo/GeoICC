@@ -4,12 +4,12 @@ Please unzip
 ```
 geogpt pre-trained weights.zip
 ```
-into the geogpt folder 
+into the geogpt folder.
 and unzip 
 ```
 geovit pre-trained weights.zip
 ```
-into the geovit folder
+into the geovit folder.
 For fine-tuning GeoICC on the image-caption pair dataset, please unzip 
 ```
 imagecaptiondata.zip
